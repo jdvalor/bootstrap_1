@@ -1,2 +1,2 @@
-# bootstrap_1
-#prueba de sitio web con bootstrap.
+# bootstrap_theme
+prueba de sitio web con bootstrap.
